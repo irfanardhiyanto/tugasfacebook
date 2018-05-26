@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>tugasFacebook</label>
+	</settings>
+	<users>
+		<user>
+			<path>tugasFacebook.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tugasFacebook.jcp</path>
+		</project>
+	</projects>
+</workspace>
